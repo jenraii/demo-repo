@@ -6,4 +6,4 @@ Some text here.
 
 Watch tutorial on YouTube.
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/jenraii/markdown-here/raw/master/src/common/images/scrum.png "Scrum Diagram")
